@@ -1,10 +1,20 @@
-# Student Management System - Java
- Simple console-based Java project to manage students:
-- Add Students
-- Remove by Roll No
-- View All
-- Search by Roll No
+# 🎓 Student Management System - Java
 
- Language: Java  
-Created by: Muhammad Hassan Khan
+A simple console-based Java application to manage student records.  
+
+## 📌 Features
+- ➕ Add a Student
+- 🔍 Search Student by Roll Number
+- ❌ Remove Student by Roll Number
+- 📋 View All Students
+
+## 🛠 Built With
+- Java
+- Object-Oriented Programming (OOP)
+
+## 👨‍💻 Developer
+**Muhammad Hassan Khan**   
+GitHub: [hasandurani](https://github.com/hasandurani)
+
+
 
